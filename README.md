@@ -1,2 +1,1 @@
-# demo-repo-cd1819
-demo repository for class
+My name is Caleb Davis and I am a computer engineering student at Mississippi State University. I am in my senior year of classes right now and I am set to graduate in December of 2024. I enjoy going to the gym and to football games.
